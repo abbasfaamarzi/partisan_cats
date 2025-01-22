@@ -2,9 +2,9 @@
 
 
 <div class="container">
-    <img alt="License" src="oscat/docs/catsbanner-1.png"/>
+    <img alt="License" src="partisan_cats/docs/partisan_cats.png"/>
     <a href="https://github.com/abbasfaramarzi/ocat" class="github-button" target="_blank">
-        <img src="oscat/docs/GitHub-Logo.wine .svg" alt="GitHub Logo" style="width: 40px; height: 40px; margin-right: 5px;"/>
+        <img src="partisan_cats/docs/GitHub-Logo.wine .svg" alt="GitHub Logo" style="width: 40px; height: 40px; margin-right: 5px;"/>
         OCat
     </a>
 </div>
