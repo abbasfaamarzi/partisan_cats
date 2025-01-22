@@ -1,0 +1,44 @@
+partisan_cat/
+│
+├── partisan_cat/
+│   ├── magics/
+│   │   ├── cat_string.py
+│   │   ├── cat_list.py
+│   │   ├── cat_dict.py
+│   │   └── cat_set.py
+│   ├── vars/
+│   │   ├── cat_string.py
+│   │   ├── cat_list.py
+│   │   ├── cat_dict.py
+│   │   └── cat_set.py
+│   ├── funcs/
+│   │   ├── cat_string.py
+│   │   ├── cat_list.py
+│   │   ├── cat_dict.py
+│   │   └── cat_set.py
+│   ├── statics/
+│   │   ├── cat_string.py
+│   │   ├── cat_list.py
+│   │   ├── cat_dict.py
+│   │   └── cat_set.py
+│   ├── properties/
+│   │   ├── cat_string.py
+│   │   ├── cat_list.py
+│   │   ├── cat_dict.py
+│   │   └── cat_set.py
+│   ├── machines/
+│   │   ├── cat_string.py
+│   │   ├── cat_list.py
+│   │   ├── cat_dict.py
+│   │   └── cat_set.py
+│   ├── keywords/
+│   │   ├── cat_string.py
+│   │   ├── cat_list.py
+│   │   ├── cat_dict.py
+│   │   └── cat_set.py
+│
+├── LICENSE
+├── README.md
+├── requirements.txt
+├──requirements
+└── setup.py
